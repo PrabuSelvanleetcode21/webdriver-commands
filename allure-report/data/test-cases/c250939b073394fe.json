@@ -1,0 +1,82 @@
+{
+  "uid" : "c250939b073394fe",
+  "name" : "Simple upload Test",
+  "fullName" : "Upload Tests.Simple upload Test",
+  "historyId" : "9c7cf419cc6f4c9edbf348d9bb8bced7",
+  "time" : {
+    "start" : 1637861902098,
+    "stop" : 1637861906512,
+    "duration" : 4414
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Upload Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Upload Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Simple upload Test"
+  }, {
+    "name" : "package",
+    "value" : "Upload Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "39e8cc8d144bd660",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774953,
+        "stop" : 1637861779302,
+        "duration" : 4349
+      }
+    }, {
+      "uid" : "d97398bc770bb67c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637857769818,
+        "stop" : 1637857776517,
+        "duration" : 6699
+      }
+    }, {
+      "uid" : "67e0bd4b1848c893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637857403390,
+        "stop" : 1637857406171,
+        "duration" : 2781
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c250939b073394fe.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

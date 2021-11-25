@@ -1,0 +1,48 @@
+{
+  "uid" : "317e8976180b5401",
+  "name" : "Uploading file ",
+  "fullName" : "Testing All WebDriver Commands .Uploading file ",
+  "historyId" : "a04f6742c563e99242ef19d81ff87ef8",
+  "time" : {
+    "start" : 1637861902433,
+    "stop" : 1637861902433,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Uploading file "
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "317e8976180b5401.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "e1ccb08a4ca9372a",
+  "name" : "Click RadioButtons",
+  "fullName" : "Testing All WebDriver Commands .Click RadioButtons",
+  "historyId" : "99ea0fef421b796c57877be5d0b5c57",
+  "time" : {
+    "start" : 1637844465300,
+    "stop" : 1637844467347,
+    "duration" : 2047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Click RadioButtons"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75b57fd52e703f75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823695242,
+        "stop" : 1637823697006,
+        "duration" : 1764
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1ccb08a4ca9372a.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

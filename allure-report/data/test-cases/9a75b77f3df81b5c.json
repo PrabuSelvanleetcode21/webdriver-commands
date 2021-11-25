@@ -1,0 +1,56 @@
+{
+  "uid" : "9a75b77f3df81b5c",
+  "name" : "First Test",
+  "fullName" : "Testing annotations.First Test",
+  "historyId" : "482084abdaf88e079dee8e3eb5be51a8",
+  "time" : {
+    "start" : 1637861774951,
+    "stop" : 1637861774956,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "First Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a75b77f3df81b5c.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

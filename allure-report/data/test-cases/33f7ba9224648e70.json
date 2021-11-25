@@ -1,0 +1,74 @@
+{
+  "uid" : "33f7ba9224648e70",
+  "name" : "Forth Test",
+  "fullName" : "Testing annotations.Forth Test",
+  "historyId" : "940dfd1c3515e084b3bf43c46d44a933",
+  "time" : {
+    "start" : 1637861901925,
+    "stop" : 1637861901927,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Forth Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a5138440a1ccc427",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774970,
+        "stop" : 1637861774976,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "38ea9ae79fc69d12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858546936,
+        "stop" : 1637858546938,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33f7ba9224648e70.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

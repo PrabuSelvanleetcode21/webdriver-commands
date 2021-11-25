@@ -1,0 +1,48 @@
+{
+  "uid" : "a726d2a6b89173d0",
+  "name" : "Handling CheckBoxes",
+  "fullName" : "Testing All WebDriver Commands .Handling CheckBoxes",
+  "historyId" : "b6550ba2bb36cd5f75b52ef1bd50a469",
+  "time" : {
+    "start" : 1637861902432,
+    "stop" : 1637861902432,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling CheckBoxes"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a726d2a6b89173d0.json",
+  "parameterValues" : [ ]
+}

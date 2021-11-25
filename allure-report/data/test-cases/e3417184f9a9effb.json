@@ -1,0 +1,56 @@
+{
+  "uid" : "e3417184f9a9effb",
+  "name" : "Third Test",
+  "fullName" : "Testing annotations.Third Test",
+  "historyId" : "ea1997e4cf13ec8da3f69be92f429392",
+  "time" : {
+    "start" : 1637858546935,
+    "stop" : 1637858546936,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Third Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3417184f9a9effb.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

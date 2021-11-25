@@ -1,0 +1,90 @@
+{
+  "uid" : "ef1e386dfe7d1e66",
+  "name" : "Second Test",
+  "fullName" : "Testing annotations.Second Test",
+  "historyId" : "242fffb03cd3291230fe033139542c54",
+  "time" : {
+    "start" : 1637861901922,
+    "stop" : 1637861901923,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Second Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1191c614211d9570",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774957,
+        "stop" : 1637861774963,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "1032adfee1bcf394",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858546933,
+        "stop" : 1637858546935,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3717c30447bb421a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858416785,
+        "stop" : 1637858416786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "24325af1174ef935",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858346928,
+        "stop" : 1637858346929,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef1e386dfe7d1e66.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

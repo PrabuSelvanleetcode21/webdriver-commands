@@ -1,0 +1,66 @@
+{
+  "uid" : "4ee3372c13af71a4",
+  "name" : "Handling CheckBoxes",
+  "fullName" : "Testing All WebDriver Commands .Handling CheckBoxes",
+  "historyId" : "691bf94be4a512cf44686419a629bc75",
+  "time" : {
+    "start" : 1637844458639,
+    "stop" : 1637844465300,
+    "duration" : 6661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling CheckBoxes"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "616e83f91f6b8940",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823693242,
+        "stop" : 1637823695242,
+        "duration" : 2000
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ee3372c13af71a4.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

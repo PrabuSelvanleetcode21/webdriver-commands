@@ -1,0 +1,58 @@
+{
+  "uid" : "a50e0dfb67490308",
+  "name" : "Validating Header menu links",
+  "fullName" : "Testing basic functionalities.Validating Header menu links",
+  "historyId" : "908cd19be574fcd8d1efffb40a7d3c6b",
+  "time" : {
+    "start" : 1637855705393,
+    "stop" : 1637855710952,
+    "duration" : 5559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected [ Array(6) ] to equal [ Array(6) ]      \n                      actual expected\n                      \n                      [ 'Home', 'About', 'Shop', 'Blog', 'ContactShop', 'My account', 'Contact' ]\n                      ",
+  "statusTrace" : "AssertionError: expected [ Array(6) ] to equal [ Array(6) ]\n                    at Heading.validatingMenusinHomePage (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:36:41)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at async Context.<anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:15:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validating Header menu links"
+  }, {
+    "name" : "package",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a50e0dfb67490308.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

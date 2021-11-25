@@ -1,0 +1,58 @@
+{
+  "uid" : "fa35da62198426e5",
+  "name" : "Handling Delayed Dropdown",
+  "fullName" : "Testing All WebDriver Commands .Handling Delayed Dropdown",
+  "historyId" : "6ef551ed1f7e84e7a57c08ce22c136ea",
+  "time" : {
+    "start" : 1637846123007,
+    "stop" : 1637846126081,
+    "duration" : 3074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: chrome=96.0.4664.55)",
+  "statusTrace" : "0   chromedriver                        0x000000010b58c269 __gxx_personality_v0 + 582729\n                1   chromedriver                        0x000000010b517c33 __gxx_personality_v0 + 106003\n                2   chromedriver                        0x000000010b0d4cdf chromedriver + 171231\n                3   chromedriver                        0x000000010b10b480 chromedriver + 394368\n                4   chromedriver                        0x000000010b0ff659 chromedriver + 345689\n                5   chromedriver                        0x000000010b127962 chromedriver + 510306\n                6   chromedriver                        0x000000010b0fef45 chromedriver + 343877\n                7   chromedriver                        0x000000010b127c7e chromedriver + 511102\n                8   chromedriver                        0x000000010b13a462 chromedriver + 586850\n                9   chromedriver                        0x000000010b127c23 chromedriver + 511011\n                10  chromedriver                        0x000000010b0fd75e chromedriver + 337758\n                11  chromedriver                        0x000000010b0fea95 chromedriver + 342677\n                12  chromedriver                        0x000000010b5488ab __gxx_personality_v0 + 305803\n                13  chromedriver                        0x000000010b55f863 __gxx_personality_v0 + 399939\n                14  chromedriver                        0x000000010b564c7f __gxx_personality_v0 + 421471\n                15  chromedriver                        0x000000010b560bba __gxx_personality_v0 + 404890\n                16  chromedriver                        0x000000010b53ce51 __gxx_personality_v0 + 258097\n                17  chromedriver                        0x000000010b57c158 __gxx_personality_v0 + 516920\n                18  chromedriver                        0x000000010b57c2e1 __gxx_personality_v0 + 517313\n                19  chromedriver                        0x000000010b5936f8 __gxx_personality_v0 + 612568\n                20  libsystem_pthread.dylib             0x00007ff81308e514 _pthread_start + 125\n                21  libsystem_pthread.dylib             0x00007ff81308a02f thread_start + 15\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling Delayed Dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa35da62198426e5.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

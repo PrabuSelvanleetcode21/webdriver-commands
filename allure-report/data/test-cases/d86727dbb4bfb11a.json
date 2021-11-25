@@ -1,0 +1,58 @@
+{
+  "uid" : "d86727dbb4bfb11a",
+  "name" : "Handling Delayed Dropdown",
+  "fullName" : "Testing All WebDriver Commands .Handling Delayed Dropdown",
+  "historyId" : "6ef551ed1f7e84e7a57c08ce22c136ea",
+  "time" : {
+    "start" : 1637846091245,
+    "stop" : 1637846094636,
+    "duration" : 3391
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "this.facebook is not a function",
+  "statusTrace" : "TypeError: this.facebook is not a function\n                    at HomePage.clickDelayedDropdown (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/HomePage.js:148:20)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                    at async Context.<anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/windowhandles.js:98:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling Delayed Dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d86727dbb4bfb11a.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

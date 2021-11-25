@@ -1,0 +1,92 @@
+{
+  "uid" : "c5e3f5f8a3349291",
+  "name" : "Find heading element and asserting the text",
+  "fullName" : "Testing basic functionalities.Find heading element and asserting the text",
+  "historyId" : "3d50126e4fcf5185911e474da862ac19",
+  "time" : {
+    "start" : 1637861902126,
+    "stop" : 1637861907011,
+    "duration" : 4885
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Find heading element and asserting the text"
+  }, {
+    "name" : "package",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "254e1f49db1f14cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774952,
+        "stop" : 1637861780403,
+        "duration" : 5451
+      }
+    }, {
+      "uid" : "b45bc37ddf943fed",
+      "status" : "broken",
+      "statusDetails" : "Invalid Chai property: toHaveText",
+      "time" : {
+        "start" : 1637854467386,
+        "stop" : 1637854473264,
+        "duration" : 5878
+      }
+    }, {
+      "uid" : "4fcb95502f58bc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637853250064,
+        "stop" : 1637853255808,
+        "duration" : 5744
+      }
+    }, {
+      "uid" : "2ecf9261a73742a5",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"//h1[text()='Think different. Make different.']\" because element wasn't found",
+      "time" : {
+        "start" : 1637853097365,
+        "stop" : 1637853107423,
+        "duration" : 10058
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5e3f5f8a3349291.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

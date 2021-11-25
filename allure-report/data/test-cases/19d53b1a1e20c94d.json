@@ -1,0 +1,90 @@
+{
+  "uid" : "19d53b1a1e20c94d",
+  "name" : "First Test",
+  "fullName" : "Testing annotations.First Test",
+  "historyId" : "482084abdaf88e079dee8e3eb5be51a8",
+  "time" : {
+    "start" : 1637861901918,
+    "stop" : 1637861901922,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "First Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a75b77f3df81b5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774951,
+        "stop" : 1637861774956,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "a0a2ea0797c17d4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858546928,
+        "stop" : 1637858546933,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "2a556cd68147e6c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858416782,
+        "stop" : 1637858416784,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f3c1e19d50aaf734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858346925,
+        "stop" : 1637858346928,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19d53b1a1e20c94d.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

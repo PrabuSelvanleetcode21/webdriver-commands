@@ -1,0 +1,48 @@
+{
+  "uid" : "cd270aab546f6d54",
+  "name" : "ScrollIntoView",
+  "fullName" : "Testing All WebDriver Commands .ScrollIntoView",
+  "historyId" : "a12685990e88943081214c807cc25526",
+  "time" : {
+    "start" : 1637861902432,
+    "stop" : 1637861902432,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "ScrollIntoView"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd270aab546f6d54.json",
+  "parameterValues" : [ ]
+}

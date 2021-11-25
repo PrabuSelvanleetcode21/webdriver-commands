@@ -1,0 +1,56 @@
+{
+  "uid" : "dd0a48b6253eef70",
+  "name" : "Multiple Window handles",
+  "fullName" : "Testing All WebDriver Commands .Multiple Window handles",
+  "historyId" : "ca29875629af3ae8cd0ffd311ca39d35",
+  "time" : {
+    "start" : 1637823684603,
+    "stop" : 1637823693241,
+    "duration" : 8638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Multiple Window handles"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd0a48b6253eef70.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "c0b7734ee23be6d56f4b81c3cebb3220",
+    "name" : "Testing All WebDriver Commands ",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 15,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 30
+    }
+  }, {
+    "uid" : "773543e769c505e54855a7af8b2d2932",
+    "name" : "Testing annotations",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "4dcba26a51f319a9445d64e9026fc702",
+    "name" : "Testing basic functionalities",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "b9afdbc0c45966d78c07cf92ff759632",
+    "name" : "Upload Tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

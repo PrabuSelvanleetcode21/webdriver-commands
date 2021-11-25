@@ -1,0 +1,48 @@
+{
+  "uid" : "ebef7562389d7689",
+  "name" : "Handling Alerts Get Alert",
+  "fullName" : "Testing All WebDriver Commands .Handling Alerts Get Alert",
+  "historyId" : "e913dcd68f10dff5b86e7c0fa2d3037f",
+  "time" : {
+    "start" : 1637861902432,
+    "stop" : 1637861902432,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling Alerts Get Alert"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebef7562389d7689.json",
+  "parameterValues" : [ ]
+}

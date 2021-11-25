@@ -1,0 +1,48 @@
+{
+  "uid" : "72b231c6d1af0afd",
+  "name" : "Double Click on Button",
+  "fullName" : "Testing All WebDriver Commands .Double Click on Button",
+  "historyId" : "d93c5b02304a30b28fa34eeb83cebd69",
+  "time" : {
+    "start" : 1637861902433,
+    "stop" : 1637861902433,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Double Click on Button"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72b231c6d1af0afd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,187 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637861902431' stop='1637861902433'>
+    <name>Testing All WebDriver Commands </name>
+    <title>Testing All WebDriver Commands </title>
+    <test-cases>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Multiple Window handles</name>
+            <title>Multiple Window handles</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Handling CheckBoxes</name>
+            <title>Handling CheckBoxes</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Click RadioButtons</name>
+            <title>Click RadioButtons</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Enter Text Fields</name>
+            <title>Enter Text Fields</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Locating iframe</name>
+            <title>Locating iframe</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>ScrollIntoView</name>
+            <title>ScrollIntoView</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Click Selenium143</name>
+            <title>Click Selenium143</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Multiple Elements </name>
+            <title>Multiple Elements </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Entering Keys</name>
+            <title>Entering Keys</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902432'>
+            <name>Handling Alerts Get Alert</name>
+            <title>Handling Alerts Get Alert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902432' status='pending' stop='1637861902433'>
+            <name>Handling Alerts Send Alert</name>
+            <title>Handling Alerts Send Alert</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902433' status='pending' stop='1637861902433'>
+            <name>Double Click on Button</name>
+            <title>Double Click on Button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902433' status='pending' stop='1637861902433'>
+            <name>Click Checkbox if is enabled</name>
+            <title>Click Checkbox if is enabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902433' status='pending' stop='1637861902433'>
+            <name>Handling Delayed Dropdown</name>
+            <title>Handling Delayed Dropdown</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637861902433' status='pending' stop='1637861902433'>
+            <name>Uploading file </name>
+            <title>Uploading file </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

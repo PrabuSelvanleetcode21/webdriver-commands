@@ -1,0 +1,48 @@
+{
+  "uid" : "396bcfeaaf902b83",
+  "name" : "Locating iframe",
+  "fullName" : "Testing All WebDriver Commands .Locating iframe",
+  "historyId" : "e1671f3061683c7ae8859a850569dfa2",
+  "time" : {
+    "start" : 1637861902432,
+    "stop" : 1637861902432,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Locating iframe"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "396bcfeaaf902b83.json",
+  "parameterValues" : [ ]
+}

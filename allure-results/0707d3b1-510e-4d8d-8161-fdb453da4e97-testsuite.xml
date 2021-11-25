@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637854467386' stop='1637854483112'>
+    <name>Testing basic functionalities</name>
+    <title>Testing basic functionalities</title>
+    <test-cases>
+        <test-case start='1637854467386' status='broken' stop='1637854473264'>
+            <name>Find heading element and asserting the text</name>
+            <title>Find heading element and asserting the text</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Invalid Chai property: toHaveText</message>
+                <stack-trace>Error: Invalid Chai property: toHaveText
+                    at Object.proxyGetter [as get] (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/chai/lib/chai/utils/proxify.js:78:17)
+                    at Heading.validatingHeaderText (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:17:34)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async Context.&lt;anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:10:9)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1637854473267' status='broken' stop='1637854483112'>
+            <name>Validating Header menu links</name>
+            <title>Validating Header menu links</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Invalid Chai property: toEqual. Did you mean "equal"?</message>
+                <stack-trace>Error: Invalid Chai property: toEqual. Did you mean "equal"?
+                    at Object.proxyGetter [as get] (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/chai/lib/chai/utils/proxify.js:75:17)
+                    at Heading.validatingMenusinHomePage (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:34:37)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async Context.&lt;anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:15:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

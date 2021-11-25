@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637855705392' stop='1637855710953'>
+    <name>Testing basic functionalities</name>
+    <title>Testing basic functionalities</title>
+    <test-cases>
+        <test-case start='1637855705393' status='failed' stop='1637855710952'>
+            <name>Validating Header menu links</name>
+            <title>Validating Header menu links</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected [ Array(6) ] to equal [ Array(6) ]      
+                      actual expected
+                      
+                      [ 'Home', 'About', 'Shop', 'Blog', 'ContactShop', 'My account', 'Contact' ]
+                      </message>
+                <stack-trace>AssertionError: expected [ Array(6) ] to equal [ Array(6) ]
+                    at Heading.validatingMenusinHomePage (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:36:41)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async Context.&lt;anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:15:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

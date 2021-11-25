@@ -1,0 +1,98 @@
+{
+  "uid" : "8d7401f06762d985",
+  "name" : "Multiple Elements ",
+  "fullName" : "Testing All WebDriver Commands .Multiple Elements ",
+  "historyId" : "3c6d40a5a76cf7d3c2ea49e81b686a18",
+  "time" : {
+    "start" : 1637844485386,
+    "stop" : 1637844487098,
+    "duration" : 1712
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Multiple Elements "
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4728dca4a791bb8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823720340,
+        "stop" : 1637823721660,
+        "duration" : 1320
+      }
+    }, {
+      "uid" : "d68312ebef7d05a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637820958726,
+        "stop" : 1637820963043,
+        "duration" : 4317
+      }
+    }, {
+      "uid" : "a8a031444d221e9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637820830917,
+        "stop" : 1637820835547,
+        "duration" : 4630
+      }
+    }, {
+      "uid" : "53070066ce5c7d3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637820642165,
+        "stop" : 1637820645609,
+        "duration" : 3444
+      }
+    }, {
+      "uid" : "90b8d2f758c22403",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637820301119,
+        "stop" : 1637820304307,
+        "duration" : 3188
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d7401f06762d985.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "d68312ebef7d05a4",
+  "name" : "Multiple Elements ",
+  "fullName" : "Testing All WebDriver Commands .Multiple Elements ",
+  "historyId" : "3c6d40a5a76cf7d3c2ea49e81b686a18",
+  "time" : {
+    "start" : 1637820958726,
+    "stop" : 1637820963043,
+    "duration" : 4317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Multiple Elements "
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d68312ebef7d05a4.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

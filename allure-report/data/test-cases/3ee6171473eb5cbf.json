@@ -1,0 +1,76 @@
+{
+  "uid" : "3ee6171473eb5cbf",
+  "name" : "Handling Delayed Dropdown",
+  "fullName" : "Testing All WebDriver Commands .Handling Delayed Dropdown",
+  "historyId" : "6ef551ed1f7e84e7a57c08ce22c136ea",
+  "time" : {
+    "start" : 1637846210226,
+    "stop" : 1637846218597,
+    "duration" : 8371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling Delayed Dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa35da62198426e5",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637846123007,
+        "stop" : 1637846126081,
+        "duration" : 3074
+      }
+    }, {
+      "uid" : "d86727dbb4bfb11a",
+      "status" : "broken",
+      "statusDetails" : "this.facebook is not a function",
+      "time" : {
+        "start" : 1637846091245,
+        "stop" : 1637846094636,
+        "duration" : 3391
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ee6171473eb5cbf.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

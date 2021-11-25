@@ -1,0 +1,64 @@
+{
+  "uid" : "b596da87499e2b0b",
+  "name" : "Double Click on Button",
+  "fullName" : "Testing All WebDriver Commands .Double Click on Button",
+  "historyId" : "89156fac571511af5fd01129b7e7984b",
+  "time" : {
+    "start" : 1637845268121,
+    "stop" : 1637845272016,
+    "duration" : 3895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "no such alert\n                  (Session info: chrome=96.0.4664.55)",
+  "statusTrace" : "0   chromedriver                        0x00000001042e8269 __gxx_personality_v0 + 582729\n                1   chromedriver                        0x0000000104273c33 __gxx_personality_v0 + 106003\n                2   chromedriver                        0x0000000103e30cdf chromedriver + 171231\n                3   chromedriver                        0x0000000103e274d5 chromedriver + 132309\n                4   chromedriver                        0x0000000103e43969 chromedriver + 248169\n                5   chromedriver                        0x0000000103e83a4b chromedriver + 510539\n                6   chromedriver                        0x0000000103e43767 chromedriver + 247655\n                7   chromedriver                        0x0000000103e83a93 chromedriver + 510611\n                8   chromedriver                        0x0000000103e5975e chromedriver + 337758\n                9   chromedriver                        0x0000000103e5aa95 chromedriver + 342677\n                10  chromedriver                        0x00000001042a48ab __gxx_personality_v0 + 305803\n                11  chromedriver                        0x00000001042bb863 __gxx_personality_v0 + 399939\n                12  chromedriver                        0x00000001042c0c7f __gxx_personality_v0 + 421471\n                13  chromedriver                        0x00000001042bcbba __gxx_personality_v0 + 404890\n                14  chromedriver                        0x0000000104298e51 __gxx_personality_v0 + 258097\n                15  chromedriver                        0x00000001042d8158 __gxx_personality_v0 + 516920\n                16  chromedriver                        0x00000001042d82e1 __gxx_personality_v0 + 517313\n                17  chromedriver                        0x00000001042ef6f8 __gxx_personality_v0 + 612568\n                18  libsystem_pthread.dylib             0x00007ff81308e514 _pthread_start + 125\n                19  libsystem_pthread.dylib             0x00007ff81308a02f thread_start + 15\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Double Click on Button"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b596da87499e2b0b.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "2ecf9261a73742a5",
+  "name" : "Find heading element and asserting the text",
+  "fullName" : "Testing basic functionalities.Find heading element and asserting the text",
+  "historyId" : "3d50126e4fcf5185911e474da862ac19",
+  "time" : {
+    "start" : 1637853097365,
+    "stop" : 1637853107423,
+    "duration" : 10058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call getText on element with selector \"//h1[text()='Think different. Make different.']\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getText on element with selector \"//h1[text()='Think different. Make different.']\" because element wasn't found\n                    at implicitWait (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/webdriverio/build/utils/implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/webdriverio/build/middlewares.js:20:29)\n                    at async Element.wrapCommandFn (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/@wdio/utils/build/shim.js:131:29)\n                    at async Heading.validatingHeaderText (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:12:22)\n                    at async Context.<anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:5:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Find heading element and asserting the text"
+  }, {
+    "name" : "package",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ecf9261a73742a5.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

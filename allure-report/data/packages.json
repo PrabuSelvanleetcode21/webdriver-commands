@@ -1,0 +1,515 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Testing All WebDriver Commands ",
+    "children" : [ {
+      "name" : "Multiple Window handles",
+      "uid" : "1513be264c2d974c",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844448777,
+        "stop" : 1637844458639,
+        "duration" : 9862
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Handling CheckBoxes",
+      "uid" : "4ee3372c13af71a4",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844458639,
+        "stop" : 1637844465300,
+        "duration" : 6661
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Click RadioButtons",
+      "uid" : "e1ccb08a4ca9372a",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844465300,
+        "stop" : 1637844467347,
+        "duration" : 2047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Enter Text Fields",
+      "uid" : "653b3e2848c17ff5",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844467348,
+        "stop" : 1637844468755,
+        "duration" : 1407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Locating iframe",
+      "uid" : "4dd27f66fe1a555a",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844468755,
+        "stop" : 1637844470420,
+        "duration" : 1665
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "ScrollIntoView",
+      "uid" : "1cbfaa7ec341167b",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844470420,
+        "stop" : 1637844476695,
+        "duration" : 6275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Click Selenium143",
+      "uid" : "118e77d222d16b18",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844476696,
+        "stop" : 1637844485385,
+        "duration" : 8689
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Multiple Elements ",
+      "uid" : "8d7401f06762d985",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844485386,
+        "stop" : 1637844487098,
+        "duration" : 1712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Entering Keys",
+      "uid" : "e1fbe3ed319b90fc",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844487102,
+        "stop" : 1637844509491,
+        "duration" : 22389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Handling Alerts",
+      "uid" : "c9cb5ffb30f9faee",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844509491,
+        "stop" : 1637844521529,
+        "duration" : 12038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Handling Alerts Send Alert",
+      "uid" : "593abbd70e192760",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637844876793,
+        "stop" : 1637844885966,
+        "duration" : 9173
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Double Click on Button",
+      "uid" : "b596da87499e2b0b",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637845268121,
+        "stop" : 1637845272016,
+        "duration" : 3895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Click Checkbox if is enabled",
+      "uid" : "982a1ac46cf4cdd0",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637845605631,
+        "stop" : 1637845608775,
+        "duration" : 3144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Handling Delayed Dropdown",
+      "uid" : "3ee6171473eb5cbf",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637846210226,
+        "stop" : 1637846218597,
+        "duration" : 8371
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Uploading file ",
+      "uid" : "cb0537d1650a15be",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637847359914,
+        "stop" : 1637847363335,
+        "duration" : 3421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "ScrollIntoView",
+      "uid" : "cd270aab546f6d54",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Locating iframe",
+      "uid" : "396bcfeaaf902b83",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handling CheckBoxes",
+      "uid" : "a726d2a6b89173d0",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Entering Keys",
+      "uid" : "52d0c16b96ab7eb0",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Multiple Window handles",
+      "uid" : "a61f63134b84ee8b",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handling Alerts Get Alert",
+      "uid" : "ebef7562389d7689",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Enter Text Fields",
+      "uid" : "834c7511589adef7",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Click RadioButtons",
+      "uid" : "e4cb121f201b507a",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handling Alerts Send Alert",
+      "uid" : "20d8c0a341ca0e2d",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902433,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Multiple Elements ",
+      "uid" : "946ae0405a0d8e48",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Click Selenium143",
+      "uid" : "b6ffd8543ce16180",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902432,
+        "stop" : 1637861902432,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handling Delayed Dropdown",
+      "uid" : "ef0b24879f1f8bf9",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902433,
+        "stop" : 1637861902433,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Uploading file ",
+      "uid" : "317e8976180b5401",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902433,
+        "stop" : 1637861902433,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Double Click on Button",
+      "uid" : "72b231c6d1af0afd",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902433,
+        "stop" : 1637861902433,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Click Checkbox if is enabled",
+      "uid" : "59ef4239055e21f1",
+      "parentUid" : "eb4528f16f60059aae005dd95df51c3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1637861902433,
+        "stop" : 1637861902433,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eb4528f16f60059aae005dd95df51c3c"
+  }, {
+    "name" : "Testing annotations",
+    "children" : [ {
+      "name" : "First Test",
+      "uid" : "19d53b1a1e20c94d",
+      "parentUid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861901918,
+        "stop" : 1637861901922,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Second Test",
+      "uid" : "ef1e386dfe7d1e66",
+      "parentUid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861901922,
+        "stop" : 1637861901923,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Third Test",
+      "uid" : "172a9b6b3404516d",
+      "parentUid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861901923,
+        "stop" : 1637861901925,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Forth Test",
+      "uid" : "33f7ba9224648e70",
+      "parentUid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861901925,
+        "stop" : 1637861901927,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Fifth Test",
+      "uid" : "1862371ee464ecd1",
+      "parentUid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861901927,
+        "stop" : 1637861901930,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "9d8e0f9a71a2f2f032571a14cbe3ebb9"
+  }, {
+    "name" : "Upload Tests",
+    "children" : [ {
+      "name" : "Simple upload Test",
+      "uid" : "c250939b073394fe",
+      "parentUid" : "bbb5a8de568bafc5e3afc745e359dd37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861902098,
+        "stop" : 1637861906512,
+        "duration" : 4414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "bbb5a8de568bafc5e3afc745e359dd37"
+  }, {
+    "name" : "Testing basic functionalities",
+    "children" : [ {
+      "name" : "Find heading element and asserting the text",
+      "uid" : "c5e3f5f8a3349291",
+      "parentUid" : "214855a7278151b6c4214b5637d6643a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861902126,
+        "stop" : 1637861907011,
+        "duration" : 4885
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Validating Header menu links",
+      "uid" : "3ef2e5a866508c1c",
+      "parentUid" : "214855a7278151b6c4214b5637d6643a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861907011,
+        "stop" : 1637861909559,
+        "duration" : 2548
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "214855a7278151b6c4214b5637d6643a"
+  } ]
+}

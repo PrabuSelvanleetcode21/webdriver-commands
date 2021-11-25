@@ -1,0 +1,58 @@
+{
+  "uid" : "d5f46d610e90a8ad",
+  "name" : "Validating Header menu links",
+  "fullName" : "Testing basic functionalities.Validating Header menu links",
+  "historyId" : "908cd19be574fcd8d1efffb40a7d3c6b",
+  "time" : {
+    "start" : 1637856163643,
+    "stop" : 1637856163650,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "browser.waituntil is not a function",
+  "statusTrace" : "TypeError: browser.waituntil is not a function\n                    at Heading.validatingMenusinHomePage (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:30:17)\n                    at Context.<anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:15:23)\n                    at Context.executeAsync (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/@wdio/utils/build/shim.js:325:27)\n                    at Context.testFrameworkFnWrapper (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validating Header menu links"
+  }, {
+    "name" : "package",
+    "value" : "Testing basic functionalities"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5f46d610e90a8ad.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

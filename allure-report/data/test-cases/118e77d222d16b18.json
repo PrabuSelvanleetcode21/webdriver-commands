@@ -1,0 +1,66 @@
+{
+  "uid" : "118e77d222d16b18",
+  "name" : "Click Selenium143",
+  "fullName" : "Testing All WebDriver Commands .Click Selenium143",
+  "historyId" : "11a693b460969c25a90212887ab51bd8",
+  "time" : {
+    "start" : 1637844476696,
+    "stop" : 1637844485385,
+    "duration" : 8689
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Click Selenium143"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2784ddd6f2609fd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823706532,
+        "stop" : 1637823720339,
+        "duration" : 13807
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "118e77d222d16b18.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

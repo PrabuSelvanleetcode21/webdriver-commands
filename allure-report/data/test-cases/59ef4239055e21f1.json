@@ -1,0 +1,48 @@
+{
+  "uid" : "59ef4239055e21f1",
+  "name" : "Click Checkbox if is enabled",
+  "fullName" : "Testing All WebDriver Commands .Click Checkbox if is enabled",
+  "historyId" : "594d5df3a946753090351f83410a10f0",
+  "time" : {
+    "start" : 1637861902433,
+    "stop" : 1637861902433,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Click Checkbox if is enabled"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59ef4239055e21f1.json",
+  "parameterValues" : [ ]
+}

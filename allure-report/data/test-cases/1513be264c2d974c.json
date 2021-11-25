@@ -1,0 +1,66 @@
+{
+  "uid" : "1513be264c2d974c",
+  "name" : "Multiple Window handles",
+  "fullName" : "Testing All WebDriver Commands .Multiple Window handles",
+  "historyId" : "ca29875629af3ae8cd0ffd311ca39d35",
+  "time" : {
+    "start" : 1637844448777,
+    "stop" : 1637844458639,
+    "duration" : 9862
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Multiple Window handles"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd0a48b6253eef70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823684603,
+        "stop" : 1637823693241,
+        "duration" : 8638
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1513be264c2d974c.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

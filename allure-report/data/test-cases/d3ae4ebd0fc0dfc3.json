@@ -1,0 +1,56 @@
+{
+  "uid" : "d3ae4ebd0fc0dfc3",
+  "name" : "Handling Alerts",
+  "fullName" : "Testing All WebDriver Commands .Handling Alerts",
+  "historyId" : "73c9b06f0cf99a1b7834e935361cd8c2",
+  "time" : {
+    "start" : 1637823122248,
+    "stop" : 1637823125792,
+    "duration" : 3544
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Handling Alerts"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3ae4ebd0fc0dfc3.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

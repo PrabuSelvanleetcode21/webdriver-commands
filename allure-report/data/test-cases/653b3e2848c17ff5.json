@@ -1,0 +1,66 @@
+{
+  "uid" : "653b3e2848c17ff5",
+  "name" : "Enter Text Fields",
+  "fullName" : "Testing All WebDriver Commands .Enter Text Fields",
+  "historyId" : "13d299a28de816b6df754cb0929df73",
+  "time" : {
+    "start" : 1637844467348,
+    "stop" : 1637844468755,
+    "duration" : 1407
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Enter Text Fields"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e0329b4bb2c0a08e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823697006,
+        "stop" : 1637823699247,
+        "duration" : 2241
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "653b3e2848c17ff5.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

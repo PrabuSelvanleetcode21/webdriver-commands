@@ -1,0 +1,74 @@
+{
+  "uid" : "172a9b6b3404516d",
+  "name" : "Third Test",
+  "fullName" : "Testing annotations.Third Test",
+  "historyId" : "ea1997e4cf13ec8da3f69be92f429392",
+  "time" : {
+    "start" : 1637861901923,
+    "stop" : 1637861901925,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Third Test"
+  }, {
+    "name" : "package",
+    "value" : "Testing annotations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "16acdd86018cdc05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637861774964,
+        "stop" : 1637861774969,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e3417184f9a9effb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637858546935,
+        "stop" : 1637858546936,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "172a9b6b3404516d.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

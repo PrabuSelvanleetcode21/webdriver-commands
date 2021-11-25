@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such alert\n                  (Session info: chrome=96.0.4664.55)",
+      "children" : [ {
+        "name" : "Double Click on Button",
+        "uid" : "b596da87499e2b0b",
+        "parentUid" : "005ffbe768e45282bf5093afced46ae0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637845268121,
+          "stop" : 1637845272016,
+          "duration" : 3895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.55" ]
+      } ],
+      "uid" : "005ffbe768e45282bf5093afced46ae0"
+    }, {
+      "name" : "invalid argument\n                  (Session info: chrome=96.0.4664.55)",
+      "children" : [ {
+        "name" : "Uploading file ",
+        "uid" : "cb0537d1650a15be",
+        "parentUid" : "5e5b72f9fa08660a244e2468a44e4be5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637847359914,
+          "stop" : 1637847363335,
+          "duration" : 3421
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.55" ]
+      } ],
+      "uid" : "5e5b72f9fa08660a244e2468a44e4be5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

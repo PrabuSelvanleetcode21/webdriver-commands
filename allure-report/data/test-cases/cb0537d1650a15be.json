@@ -1,0 +1,73 @@
+{
+  "uid" : "cb0537d1650a15be",
+  "name" : "Uploading file ",
+  "fullName" : "Testing All WebDriver Commands .Uploading file ",
+  "historyId" : "8119229934bae5c3afc69daaf94b080",
+  "time" : {
+    "start" : 1637847359914,
+    "stop" : 1637847363335,
+    "duration" : 3421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid argument\n                  (Session info: chrome=96.0.4664.55)",
+  "statusTrace" : "0   chromedriver                        0x00000001056b8269 __gxx_personality_v0 + 582729\n                1   chromedriver                        0x0000000105643c33 __gxx_personality_v0 + 106003\n                2   chromedriver                        0x0000000105200cdf chromedriver + 171231\n                3   chromedriver                        0x000000010522bdfc chromedriver + 347644\n                4   chromedriver                        0x0000000105253962 chromedriver + 510306\n                5   chromedriver                        0x000000010522af45 chromedriver + 343877\n                6   chromedriver                        0x0000000105253c7e chromedriver + 511102\n                7   chromedriver                        0x0000000105266462 chromedriver + 586850\n                8   chromedriver                        0x0000000105253c23 chromedriver + 511011\n                9   chromedriver                        0x000000010522975e chromedriver + 337758\n                10  chromedriver                        0x000000010522aa95 chromedriver + 342677\n                11  chromedriver                        0x00000001056748ab __gxx_personality_v0 + 305803\n                12  chromedriver                        0x000000010568b863 __gxx_personality_v0 + 399939\n                13  chromedriver                        0x0000000105690c7f __gxx_personality_v0 + 421471\n                14  chromedriver                        0x000000010568cbba __gxx_personality_v0 + 404890\n                15  chromedriver                        0x0000000105668e51 __gxx_personality_v0 + 258097\n                16  chromedriver                        0x00000001056a8158 __gxx_personality_v0 + 516920\n                17  chromedriver                        0x00000001056a82e1 __gxx_personality_v0 + 517313\n                18  chromedriver                        0x00000001056bf6f8 __gxx_personality_v0 + 612568\n                19  libsystem_pthread.dylib             0x00007ff81308e514 _pthread_start + 125\n                20  libsystem_pthread.dylib             0x00007ff81308a02f thread_start + 15\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Uploading file "
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80ed28e1be1482f",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n                  (Session info: chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637847132103,
+        "stop" : 1637847136280,
+        "duration" : 4177
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cb0537d1650a15be.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

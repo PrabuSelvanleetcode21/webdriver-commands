@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637856309168' stop='1637856319179'>
+    <name>Testing basic functionalities</name>
+    <title>Testing basic functionalities</title>
+    <test-cases>
+        <test-case start='1637856309168' status='broken' stop='1637856319178'>
+            <name>Validating Header menu links</name>
+            <title>Validating Header menu links</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>waitUntil condition timed out after 10000ms</message>
+                <stack-trace>Error: waitUntil condition timed out after 10000ms
+                    at /Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/webdriverio/build/commands/browser/waitUntil.js:68:19
+                    at async Browser.wrapCommandFn (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/node_modules/@wdio/utils/build/shim.js:131:29)
+                    at async Heading.validatingMenusinHomePage (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/pages/heading.js:30:9)
+                    at async Context.&lt;anonymous> (/Users/prabuselvan/Documents/Javascript-Projects/webdriverio-commands/test/specs/automationbro-practice.js:15:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

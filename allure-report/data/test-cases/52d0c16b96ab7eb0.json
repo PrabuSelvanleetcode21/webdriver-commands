@@ -1,0 +1,48 @@
+{
+  "uid" : "52d0c16b96ab7eb0",
+  "name" : "Entering Keys",
+  "fullName" : "Testing All WebDriver Commands .Entering Keys",
+  "historyId" : "8ec883717b2f1c86401579d2853fc87e",
+  "time" : {
+    "start" : 1637861902432,
+    "stop" : 1637861902432,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Entering Keys"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52d0c16b96ab7eb0.json",
+  "parameterValues" : [ ]
+}

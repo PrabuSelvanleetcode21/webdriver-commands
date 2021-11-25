@@ -1,0 +1,66 @@
+{
+  "uid" : "1cbfaa7ec341167b",
+  "name" : "ScrollIntoView",
+  "fullName" : "Testing All WebDriver Commands .ScrollIntoView",
+  "historyId" : "7cacd5ecb64f03d47be7a84f2e852243",
+  "time" : {
+    "start" : 1637844470420,
+    "stop" : 1637844476695,
+    "duration" : 6275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "ScrollIntoView"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4b6fa13765af89d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637823700944,
+        "stop" : 1637823706530,
+        "duration" : 5586
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cbfaa7ec341167b.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

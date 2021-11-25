@@ -1,0 +1,56 @@
+{
+  "uid" : "c88ac6c49791eaa0",
+  "name" : "Click Checkbox if is enabled",
+  "fullName" : "Testing All WebDriver Commands .Click Checkbox if is enabled",
+  "historyId" : "d4fa051c9e44c5e595785fe1b219158c",
+  "time" : {
+    "start" : 1637845493352,
+    "stop" : 1637845495576,
+    "duration" : 2224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testClass",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "testMethod",
+    "value" : "Click Checkbox if is enabled"
+  }, {
+    "name" : "package",
+    "value" : "Testing All WebDriver Commands "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c88ac6c49791eaa0.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}
